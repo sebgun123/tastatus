@@ -1,0 +1,61 @@
+body {
+    display: flex;
+    justify-content: center;
+    margin-top: 5vh;
+}
+
+.tastatur {
+    display: black;
+}
+
+#input {
+    border: solid black 1px;
+    height: 50px;
+    width: 600px;
+    font-size: xx-large;
+    margin-bottom: 6px;
+}
+
+#rekke1 {
+    height: 50px;
+    margin-bottom: 4px;
+}
+
+#rekke2 {
+    height: 50px;
+    margin-left: 15px;
+    margin-bottom: 4px;
+}
+
+#rekke3 {
+    height: 50px;
+    margin-left: 50px;
+    margin-bottom: 4px;
+}
+
+#rekke4 {
+    display: flex;
+    align-items: center;
+    margin-left: 190px;
+}
+
+.tast {
+    width: 50px;
+    height: 50px;
+    border: solid black 1px;
+    font-size: larger;
+}
+
+#mellomrom {
+    height: 50px;
+    width: 250px;
+    border: solid black 1px;
+    font-size: larger;
+}
+
+#slett {
+    height: 50px;
+    width: 100px;
+    border: solid black 1px;
+    font-size: larger;
+}
